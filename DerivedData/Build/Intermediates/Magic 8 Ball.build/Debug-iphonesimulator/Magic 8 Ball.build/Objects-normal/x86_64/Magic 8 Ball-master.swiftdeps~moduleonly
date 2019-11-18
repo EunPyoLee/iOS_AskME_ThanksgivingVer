@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "a4a83ead504137fe00bbb9338b1f4f98"
+build_time: [1574031617, 675921000]
+inputs:
+  "/Users/macbookpro/Documents/iosDev/Magic-8-Ball-iOS13/Magic 8 Ball/ViewController.swift": [1574031617, 380031561]
+  "/Users/macbookpro/Documents/iosDev/Magic-8-Ball-iOS13/Magic 8 Ball/AppDelegate.swift": [1574030656, 515036643]
+  "/Users/macbookpro/Documents/iosDev/Magic-8-Ball-iOS13/Magic 8 Ball/SceneDelegate.swift": [1574030656, 544349022]

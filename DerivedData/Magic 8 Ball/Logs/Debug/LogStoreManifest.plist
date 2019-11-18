@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0761ED51-D243-400D-A996-C2DDA037EFD6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0761ED51-D243-400D-A996-C2DDA037EFD6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>595724289.590886</real>
+			<key>timeStoppedRecording</key>
+			<real>595724362.39527798</real>
+			<key>title</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>0761ED51-D243-400D-A996-C2DDA037EFD6</string>
+		</dict>
+		<key>0AD87DC9-8B2D-42C6-B6D2-BB6BEA37AEA9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0AD87DC9-8B2D-42C6-B6D2-BB6BEA37AEA9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>595725426.57392895</real>
+			<key>timeStoppedRecording</key>
+			<real>595725455.216169</real>
+			<key>title</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>0AD87DC9-8B2D-42C6-B6D2-BB6BEA37AEA9</string>
+		</dict>
+		<key>3FDC2EBE-9AD4-4151-A6DD-64F4A47260BA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3FDC2EBE-9AD4-4151-A6DD-64F4A47260BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>595725640.13650203</real>
+			<key>timeStoppedRecording</key>
+			<real>595732614.94551098</real>
+			<key>title</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>3FDC2EBE-9AD4-4151-A6DD-64F4A47260BA</string>
+		</dict>
+		<key>56A51FDC-2FC6-4939-BD2C-FB8543CC985F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>56A51FDC-2FC6-4939-BD2C-FB8543CC985F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>595724068.19341195</real>
+			<key>timeStoppedRecording</key>
+			<real>595724287.27099097</real>
+			<key>title</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>56A51FDC-2FC6-4939-BD2C-FB8543CC985F</string>
+		</dict>
+		<key>675FD943-7E5A-43DF-AC17-06A6E0703C78</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>675FD943-7E5A-43DF-AC17-06A6E0703C78.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>595725455.93120003</real>
+			<key>timeStoppedRecording</key>
+			<real>595725594.230757</real>
+			<key>title</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>675FD943-7E5A-43DF-AC17-06A6E0703C78</string>
+		</dict>
+		<key>734C9154-B6C4-47D3-AC4A-43617751BD94</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>734C9154-B6C4-47D3-AC4A-43617751BD94.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>595725600.78135395</real>
+			<key>timeStoppedRecording</key>
+			<real>595725639.63121104</real>
+			<key>title</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>734C9154-B6C4-47D3-AC4A-43617751BD94</string>
+		</dict>
+		<key>AF8777C0-656B-444D-9EC6-954107F5DF35</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AF8777C0-656B-444D-9EC6-954107F5DF35.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>595724364.13919604</real>
+			<key>timeStoppedRecording</key>
+			<real>595724417.43544805</real>
+			<key>title</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>AF8777C0-656B-444D-9EC6-954107F5DF35</string>
+		</dict>
+		<key>DD09D50A-21BF-42C9-BF37-9E9223B4EB32</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DD09D50A-21BF-42C9-BF37-9E9223B4EB32.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>595724419.740044</real>
+			<key>timeStoppedRecording</key>
+			<real>595725423.41995299</real>
+			<key>title</key>
+			<string>Debug Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>DD09D50A-21BF-42C9-BF37-9E9223B4EB32</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
